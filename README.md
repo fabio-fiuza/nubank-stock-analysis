@@ -1,3 +1,5 @@
+![Descrição da Imagem](reports/figures/nu-stock-analysis.png)
+
 # Iniciando minha jornada em séries temporais, mergulhei na análise das ações do Nubank!
 
 Utilizei a API do Yahoo Finance para obter dados históricos e aplicar conceitos essenciais como média móvel, bandas de Bollinger e oscilação. 
