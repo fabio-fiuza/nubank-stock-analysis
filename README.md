@@ -9,6 +9,6 @@ Este repositório documenta meu processo de aprendizado e explora as tendências
 - **A trajetória do preço de fechamento das ações do Nubank ao longo de um ano.**
 - **A volatilidade do mercado através das bandas de Bollinger.**
 - **Oscilações do preço e seus impactos na empresa.**
-- **As tendências e sazonalidades do preço nesse periodo**
+- **As tendências e sazonalidades do preço nesse periodo.**
 
 Junte-se a mim nessa jornada de aprendizado e análise!
